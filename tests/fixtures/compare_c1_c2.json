@@ -1,0 +1,265 @@
+{
+  "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/compare/c81e5c554f0de118d5f08ccbf754efcc8073f245...207f1838a67ece860f6093b2c88a5d8054f131ea",
+  "html_url": "https://github.com/Siriron/palimpsest-demo-docs/compare/c81e5c554f0de118d5f08ccbf754efcc8073f245...207f1838a67ece860f6093b2c88a5d8054f131ea",
+  "permalink_url": "https://github.com/Siriron/palimpsest-demo-docs/compare/Siriron:c81e5c5...Siriron:207f183",
+  "diff_url": "https://github.com/Siriron/palimpsest-demo-docs/compare/c81e5c554f0de118d5f08ccbf754efcc8073f245...207f1838a67ece860f6093b2c88a5d8054f131ea.diff",
+  "patch_url": "https://github.com/Siriron/palimpsest-demo-docs/compare/c81e5c554f0de118d5f08ccbf754efcc8073f245...207f1838a67ece860f6093b2c88a5d8054f131ea.patch",
+  "base_commit": {
+    "sha": "c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "node_id": "C_kwDOV5okAtoAKGM4MWU1YzU1NGYwZGUxMThkNWYwOGNjYmY3NTRlZmNjODA3M2YyNDU",
+    "commit": {
+      "author": {
+        "name": "Siriron",
+        "email": "127705750+Siriron@users.noreply.github.com",
+        "date": "2026-11-24T05:58:42Z"
+      },
+      "committer": {
+        "name": "Siriron",
+        "email": "127705750+Siriron@users.noreply.github.com",
+        "date": "2026-11-24T05:58:42Z"
+      },
+      "message": "Initial policy documents",
+      "tree": {
+        "sha": "7a78f83ee5d71513e499d5f33d1ea81d68c1fd80",
+        "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/trees/7a78f83ee5d71513e499d5f33d1ea81d68c1fd80"
+      },
+      "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "html_url": "https://github.com/Siriron/palimpsest-demo-docs/commit/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "comments_url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245/comments",
+    "author": {
+      "login": "Siriron",
+      "id": 127705750,
+      "node_id": "U_kgDOB5yilg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Siriron",
+      "html_url": "https://github.com/Siriron",
+      "followers_url": "https://api.github.com/users/Siriron/followers",
+      "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+      "organizations_url": "https://api.github.com/users/Siriron/orgs",
+      "repos_url": "https://api.github.com/users/Siriron/repos",
+      "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Siriron/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Siriron",
+      "id": 127705750,
+      "node_id": "U_kgDOB5yilg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Siriron",
+      "html_url": "https://github.com/Siriron",
+      "followers_url": "https://api.github.com/users/Siriron/followers",
+      "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+      "organizations_url": "https://api.github.com/users/Siriron/orgs",
+      "repos_url": "https://api.github.com/users/Siriron/repos",
+      "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Siriron/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  },
+  "merge_base_commit": {
+    "sha": "c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "node_id": "C_kwDOV5okAtoAKGM4MWU1YzU1NGYwZGUxMThkNWYwOGNjYmY3NTRlZmNjODA3M2YyNDU",
+    "commit": {
+      "author": {
+        "name": "Siriron",
+        "email": "127705750+Siriron@users.noreply.github.com",
+        "date": "2026-11-24T05:58:42Z"
+      },
+      "committer": {
+        "name": "Siriron",
+        "email": "127705750+Siriron@users.noreply.github.com",
+        "date": "2026-11-24T05:58:42Z"
+      },
+      "message": "Initial policy documents",
+      "tree": {
+        "sha": "7a78f83ee5d71513e499d5f33d1ea81d68c1fd80",
+        "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/trees/7a78f83ee5d71513e499d5f33d1ea81d68c1fd80"
+      },
+      "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "html_url": "https://github.com/Siriron/palimpsest-demo-docs/commit/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+    "comments_url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245/comments",
+    "author": {
+      "login": "Siriron",
+      "id": 127705750,
+      "node_id": "U_kgDOB5yilg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Siriron",
+      "html_url": "https://github.com/Siriron",
+      "followers_url": "https://api.github.com/users/Siriron/followers",
+      "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+      "organizations_url": "https://api.github.com/users/Siriron/orgs",
+      "repos_url": "https://api.github.com/users/Siriron/repos",
+      "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Siriron/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "Siriron",
+      "id": 127705750,
+      "node_id": "U_kgDOB5yilg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/Siriron",
+      "html_url": "https://github.com/Siriron",
+      "followers_url": "https://api.github.com/users/Siriron/followers",
+      "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+      "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+      "organizations_url": "https://api.github.com/users/Siriron/orgs",
+      "repos_url": "https://api.github.com/users/Siriron/repos",
+      "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/Siriron/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  },
+  "status": "ahead",
+  "ahead_by": 1,
+  "behind_by": 0,
+  "total_commits": 1,
+  "commits": [
+    {
+      "sha": "207f1838a67ece860f6093b2c88a5d8054f131ea",
+      "node_id": "C_kwDOV5okAtoAKDIwN2YxODM4YTY3ZWNlODYwZjYwOTNiMmM4OGE1ZDgwNTRmMTMxZWE",
+      "commit": {
+        "author": {
+          "name": "Siriron",
+          "email": "127705750+Siriron@users.noreply.github.com",
+          "date": "2026-11-24T05:58:42Z"
+        },
+        "committer": {
+          "name": "Siriron",
+          "email": "127705750+Siriron@users.noreply.github.com",
+          "date": "2026-11-24T05:58:42Z"
+        },
+        "message": "Fix spelling in the terms",
+        "tree": {
+          "sha": "5efd83a87f4c7491754060ea16d910a468bc8ac8",
+          "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/trees/5efd83a87f4c7491754060ea16d910a468bc8ac8"
+        },
+        "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/git/commits/207f1838a67ece860f6093b2c88a5d8054f131ea",
+        "comment_count": 0,
+        "verification": {
+          "verified": false,
+          "reason": "unsigned",
+          "signature": null,
+          "payload": null,
+          "verified_at": null
+        }
+      },
+      "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/207f1838a67ece860f6093b2c88a5d8054f131ea",
+      "html_url": "https://github.com/Siriron/palimpsest-demo-docs/commit/207f1838a67ece860f6093b2c88a5d8054f131ea",
+      "comments_url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/207f1838a67ece860f6093b2c88a5d8054f131ea/comments",
+      "author": {
+        "login": "Siriron",
+        "id": 127705750,
+        "node_id": "U_kgDOB5yilg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Siriron",
+        "html_url": "https://github.com/Siriron",
+        "followers_url": "https://api.github.com/users/Siriron/followers",
+        "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+        "organizations_url": "https://api.github.com/users/Siriron/orgs",
+        "repos_url": "https://api.github.com/users/Siriron/repos",
+        "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Siriron/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "Siriron",
+        "id": 127705750,
+        "node_id": "U_kgDOB5yilg",
+        "avatar_url": "https://avatars.githubusercontent.com/u/127705750?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/Siriron",
+        "html_url": "https://github.com/Siriron",
+        "followers_url": "https://api.github.com/users/Siriron/followers",
+        "following_url": "https://api.github.com/users/Siriron/following{/other_user}",
+        "gists_url": "https://api.github.com/users/Siriron/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/Siriron/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/Siriron/subscriptions",
+        "organizations_url": "https://api.github.com/users/Siriron/orgs",
+        "repos_url": "https://api.github.com/users/Siriron/repos",
+        "events_url": "https://api.github.com/users/Siriron/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/Siriron/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "c81e5c554f0de118d5f08ccbf754efcc8073f245",
+          "url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/commits/c81e5c554f0de118d5f08ccbf754efcc8073f245",
+          "html_url": "https://github.com/Siriron/palimpsest-demo-docs/commit/c81e5c554f0de118d5f08ccbf754efcc8073f245"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "sha": "b3ca59004267a0ddbafd0ae7a3c5a348ab0f1c3b",
+      "filename": "TERMS.md",
+      "status": "modified",
+      "additions": 3,
+      "deletions": 3,
+      "changes": 6,
+      "blob_url": "https://github.com/Siriron/palimpsest-demo-docs/blob/207f1838a67ece860f6093b2c88a5d8054f131ea/TERMS.md",
+      "raw_url": "https://github.com/Siriron/palimpsest-demo-docs/raw/207f1838a67ece860f6093b2c88a5d8054f131ea/TERMS.md",
+      "contents_url": "https://api.github.com/repos/Siriron/palimpsest-demo-docs/contents/TERMS.md?ref=207f1838a67ece860f6093b2c88a5d8054f131ea",
+      "patch": "@@ -1,6 +1,6 @@\n # Lantern Terms of Use\n \n You may use Lantern for personal and commercial projects.\n-We will notify you by email if these terms change. You will recieve notice at least 14 days before changes take effect.\n-Invoices are issued monthly. Disputes must be seperate from payment requests.\n-If an outage occured, service credits apply.\n+We will notify you by email if these terms change. You will receive notice at least 14 days before changes take effect.\n+Invoices are issued monthly. Disputes must be separate from payment requests.\n+If an outage occurred, service credits apply."
+    }
+  ]
+}
