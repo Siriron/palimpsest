@@ -15,7 +15,7 @@
 
 <br />
 
-**[Documentation](./docs/architecture.md)** &nbsp;·&nbsp; **[Smart Contract](./contracts/palimpsest.py)** &nbsp;·&nbsp; **[Demo documents](https://github.com/Siriron/palimpsest-demo-docs)**
+**[Live App](https://palimpsest-cyan.vercel.app)** &nbsp;·&nbsp; **[Documentation](./docs/architecture.md)** &nbsp;·&nbsp; **[Smart Contract](./contracts/palimpsest.py)** &nbsp;·&nbsp; **[Demo documents](https://github.com/Siriron/palimpsest-demo-docs)**
 
 </div>
 
