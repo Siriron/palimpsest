@@ -1,7 +1,7 @@
 // The only place the deployed contract address lives. After deploying contracts/palimpsest.py
 // to StudioNet, paste the address between the quotes. Empty means "not deployed yet" and the app
 // shows setup instructions instead of failing silently.
-export const CONTRACT_ADDRESS = ''
+export const CONTRACT_ADDRESS = '0xC5D719A0C0898de4408d80608d512Ef4cc580A2A'
 
 export const IS_DEPLOYED = /^0x[0-9a-fA-F]{40}$/.test(CONTRACT_ADDRESS)
 

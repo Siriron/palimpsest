@@ -83,7 +83,7 @@ Policies, terms and charters kept in git get rewritten in place, and the note de
 
 | Network | Address | Explorer |
 |---|---|---|
-| StudioNet | Not deployed yet. Deploy `contracts/palimpsest.py` in Studio and set `CONTRACT_ADDRESS` in `src/config/chains.ts`. | n/a |
+| StudioNet | `0xC5D719A0C0898de4408d80608d512Ef4cc580A2A` | [View](https://explorer-studio.genlayer.com/address/0xC5D719A0C0898de4408d80608d512Ef4cc580A2A) |
 
 StudioNet is a temporary test network: deployed addresses may not survive resets. The repository tests below are the proof of behavior, not the address.
 
@@ -142,7 +142,7 @@ LICENSE                            MIT
 
 </div>
 
-107 direct-mode tests pass (`pytest tests -q -p no:cacheprovider`), `genvm-lint check` and `typecheck` pass, and the frontend builds (`npm run build`). The tests run the real contract and its real validator logic, using real GitHub compare responses as fixtures, with the web and the model mocked. Seven planted bugs (HTTP status attribute, material-flag check, evidence digest check, validator quote check, repository echo, baseline echo, additions/deletions check) were each caught by at least one test. The tests do NOT prove how a real model judges a diff, real network behavior or real multi-node timing. The contract has not been deployed and the app has not been exercised against a live StudioNet transaction.
+107 direct-mode tests pass (`pytest tests -q -p no:cacheprovider`), `genvm-lint check` and `typecheck` pass, and the frontend builds (`npm run build`). The tests run the real contract and its real validator logic, using real GitHub compare responses as fixtures, with the web and the model mocked. Seven planted bugs (HTTP status attribute, material-flag check, evidence digest check, validator quote check, repository echo, baseline echo, additions/deletions check) were each caught by at least one test. The tests do NOT prove how a real model judges a diff, real network behavior or real multi-node timing. The contract is deployed to StudioNet, but no live transaction has been exercised through the app yet.
 
 <br />
 

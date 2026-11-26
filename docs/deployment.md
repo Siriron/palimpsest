@@ -2,6 +2,10 @@
 
 ## Contract (StudioNet)
 
+Current deployment: `0xC5D719A0C0898de4408d80608d512Ef4cc580A2A` ([explorer](https://explorer-studio.genlayer.com/address/0xC5D719A0C0898de4408d80608d512Ef4cc580A2A)). It is the value of `CONTRACT_ADDRESS` in `src/config/chains.ts`.
+
+To redeploy:
+
 1. Open GenLayer Studio and deploy `contracts/palimpsest.py` to StudioNet. There are no constructor arguments.
 2. Copy the deployed address into `src/config/chains.ts` as `CONTRACT_ADDRESS`. It is the single place the address lives.
 3. Rebuild and redeploy the frontend.
